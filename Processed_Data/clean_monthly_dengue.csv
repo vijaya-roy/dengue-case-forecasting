@@ -1,0 +1,613 @@
+State,Year,Month,Dengue_Cases
+A&N Island,2018,1,0
+A&N Island,2018,2,1
+A&N Island,2018,3,2
+A&N Island,2018,4,1
+A&N Island,2018,5,5
+A&N Island,2018,6,2
+A&N Island,2018,7,0
+A&N Island,2018,8,0
+A&N Island,2018,9,10
+A&N Island,2018,10,12
+A&N Island,2018,11,6
+A&N Island,2018,12,10
+A&N Island,2019,1,24
+A&N Island,2019,2,0
+A&N Island,2019,3,0
+A&N Island,2019,4,0
+A&N Island,2019,5,1
+A&N Island,2019,6,0
+Andhra Pradesh,2018,1,90
+Andhra Pradesh,2018,2,81
+Andhra Pradesh,2018,3,77
+Andhra Pradesh,2018,4,46
+Andhra Pradesh,2018,5,69
+Andhra Pradesh,2018,6,285
+Andhra Pradesh,2018,7,928
+Andhra Pradesh,2018,8,1162
+Andhra Pradesh,2018,9,576
+Andhra Pradesh,2018,10,348
+Andhra Pradesh,2018,11,199
+Andhra Pradesh,2018,12,150
+Andhra Pradesh,2019,1,62
+Andhra Pradesh,2019,2,32
+Andhra Pradesh,2019,3,56
+Andhra Pradesh,2019,4,87
+Andhra Pradesh,2019,5,71
+Andhra Pradesh,2019,6,141
+Arunachal Pradesh,2018,1,0
+Arunachal Pradesh,2018,2,0
+Arunachal Pradesh,2018,3,0
+Arunachal Pradesh,2018,4,0
+Arunachal Pradesh,2018,5,0
+Arunachal Pradesh,2018,6,0
+Arunachal Pradesh,2018,7,0
+Arunachal Pradesh,2018,8,1
+Arunachal Pradesh,2018,9,0
+Arunachal Pradesh,2018,10,0
+Arunachal Pradesh,2018,11,0
+Arunachal Pradesh,2018,12,0
+Arunachal Pradesh,2019,1,0
+Arunachal Pradesh,2019,2,0
+Arunachal Pradesh,2019,3,0
+Arunachal Pradesh,2019,4,0
+Arunachal Pradesh,2019,5,0
+Arunachal Pradesh,2019,6,0
+Assam,2018,1,2
+Assam,2018,2,1
+Assam,2018,3,2
+Assam,2018,4,2
+Assam,2018,5,3
+Assam,2018,6,20
+Assam,2018,7,17
+Assam,2018,8,10
+Assam,2018,9,20
+Assam,2018,10,30
+Assam,2018,11,56
+Assam,2018,12,3
+Assam,2019,1,0
+Assam,2019,2,4
+Assam,2019,3,4
+Assam,2019,4,3
+Assam,2019,5,3
+Assam,2019,6,3
+Bihar,2018,1,2
+Bihar,2018,2,0
+Bihar,2018,3,0
+Bihar,2018,4,0
+Bihar,2018,5,0
+Bihar,2018,6,3
+Bihar,2018,7,3
+Bihar,2018,8,45
+Bihar,2018,9,166
+Bihar,2018,10,841
+Bihar,2018,11,1028
+Bihar,2018,12,54
+Bihar,2019,1,0
+Bihar,2019,2,0
+Bihar,2019,3,0
+Bihar,2019,4,0
+Bihar,2019,5,3
+Bihar,2019,6,2
+Chandigarh,2018,1,3
+Chandigarh,2018,2,1
+Chandigarh,2018,3,1
+Chandigarh,2018,4,0
+Chandigarh,2018,5,2
+Chandigarh,2018,6,5
+Chandigarh,2018,7,5
+Chandigarh,2018,8,17
+Chandigarh,2018,9,56
+Chandigarh,2018,10,115
+Chandigarh,2018,11,80
+Chandigarh,2018,12,16
+Chandigarh,2019,1,0
+Chandigarh,2019,2,0
+Chandigarh,2019,3,0
+Chandigarh,2019,4,0
+Chandigarh,2019,5,0
+Chandigarh,2019,6,7
+Chhattisgarh,2018,1,3
+Chhattisgarh,2018,2,4
+Chhattisgarh,2018,3,1
+Chhattisgarh,2018,4,0
+Chhattisgarh,2018,5,3
+Chhattisgarh,2018,6,7
+Chhattisgarh,2018,7,170
+Chhattisgarh,2018,8,587
+Chhattisgarh,2018,9,1200
+Chhattisgarh,2018,10,465
+Chhattisgarh,2018,11,189
+Chhattisgarh,2018,12,45
+Chhattisgarh,2019,1,18
+Chhattisgarh,2019,2,23
+Chhattisgarh,2019,3,12
+Chhattisgarh,2019,4,5
+Chhattisgarh,2019,5,30
+Chhattisgarh,2019,6,8
+D&N Haveli,2018,1,13
+D&N Haveli,2018,2,3
+D&N Haveli,2018,3,4
+D&N Haveli,2018,4,7
+D&N Haveli,2018,5,11
+D&N Haveli,2018,6,25
+D&N Haveli,2018,7,18
+D&N Haveli,2018,8,44
+D&N Haveli,2018,9,85
+D&N Haveli,2018,10,160
+D&N Haveli,2018,11,94
+D&N Haveli,2018,12,29
+D&N Haveli,2019,1,0
+D&N Haveli,2019,2,4
+D&N Haveli,2019,3,4
+D&N Haveli,2019,4,4
+D&N Haveli,2019,5,4
+D&N Haveli,2019,6,6
+Daman & Diu,2018,1,2
+Daman & Diu,2018,2,1
+Daman & Diu,2018,3,0
+Daman & Diu,2018,4,0
+Daman & Diu,2018,5,0
+Daman & Diu,2018,6,4
+Daman & Diu,2018,7,3
+Daman & Diu,2018,8,8
+Daman & Diu,2018,9,36
+Daman & Diu,2018,10,60
+Daman & Diu,2018,11,35
+Daman & Diu,2018,12,14
+Daman & Diu,2019,1,0
+Daman & Diu,2019,2,0
+Daman & Diu,2019,3,0
+Daman & Diu,2019,4,0
+Daman & Diu,2019,5,0
+Daman & Diu,2019,6,1
+Delhi,2018,1,5
+Delhi,2018,2,10
+Delhi,2018,3,3
+Delhi,2018,4,8
+Delhi,2018,5,8
+Delhi,2018,6,24
+Delhi,2018,7,49
+Delhi,2018,8,160
+Delhi,2018,9,889
+Delhi,2018,10,2245
+Delhi,2018,11,2813
+Delhi,2018,12,922
+Delhi,2019,1,1
+Delhi,2019,2,18
+Delhi,2019,3,5
+Delhi,2019,4,16
+Delhi,2019,5,13
+Delhi,2019,6,38
+Goa,2018,1,20
+Goa,2018,2,8
+Goa,2018,3,11
+Goa,2018,4,7
+Goa,2018,5,10
+Goa,2018,6,68
+Goa,2018,7,71
+Goa,2018,8,41
+Goa,2018,9,36
+Goa,2018,10,31
+Goa,2018,11,19
+Goa,2018,12,13
+Goa,2019,1,16
+Goa,2019,2,7
+Goa,2019,3,8
+Goa,2019,4,9
+Goa,2019,5,6
+Goa,2019,6,47
+Gujarat,2018,1,141
+Gujarat,2018,2,102
+Gujarat,2018,3,89
+Gujarat,2018,4,72
+Gujarat,2018,5,100
+Gujarat,2018,6,76
+Gujarat,2018,7,196
+Gujarat,2018,8,583
+Gujarat,2018,9,1518
+Gujarat,2018,10,2854
+Gujarat,2018,11,1347
+Gujarat,2018,12,501
+Gujarat,2019,1,111
+Gujarat,2019,2,55
+Gujarat,2019,3,59
+Gujarat,2019,4,39
+Gujarat,2019,5,76
+Gujarat,2019,6,54
+Haryana,2018,1,0
+Haryana,2018,2,0
+Haryana,2018,3,0
+Haryana,2018,4,3
+Haryana,2018,5,2
+Haryana,2018,6,2
+Haryana,2018,7,9
+Haryana,2018,8,40
+Haryana,2018,9,245
+Haryana,2018,10,768
+Haryana,2018,11,685
+Haryana,2018,12,144
+Haryana,2019,1,0
+Haryana,2019,2,0
+Haryana,2019,3,0
+Haryana,2019,4,0
+Haryana,2019,5,2
+Haryana,2019,6,1
+Himachal Pradesh,2018,1,0
+Himachal Pradesh,2018,2,0
+Himachal Pradesh,2018,3,0
+Himachal Pradesh,2018,4,0
+Himachal Pradesh,2018,5,0
+Himachal Pradesh,2018,6,65
+Himachal Pradesh,2018,7,481
+Himachal Pradesh,2018,8,1276
+Himachal Pradesh,2018,9,1481
+Himachal Pradesh,2018,10,1131
+Himachal Pradesh,2018,11,228
+Himachal Pradesh,2018,12,10
+Himachal Pradesh,2019,1,5
+Himachal Pradesh,2019,2,4
+Himachal Pradesh,2019,3,1
+Himachal Pradesh,2019,4,3
+Himachal Pradesh,2019,5,1
+Himachal Pradesh,2019,6,4
+J & K,2018,1,0
+J & K,2018,2,0
+J & K,2018,3,0
+J & K,2018,4,0
+J & K,2018,5,1
+J & K,2018,6,0
+J & K,2018,7,1
+J & K,2018,8,0
+J & K,2018,9,21
+J & K,2018,10,131
+J & K,2018,11,53
+J & K,2018,12,7
+J & K,2019,1,0
+J & K,2019,2,0
+J & K,2019,3,0
+J & K,2019,4,0
+J & K,2019,5,0
+J & K,2019,6,0
+Jharkhand,2018,1,1
+Jharkhand,2018,2,0
+Jharkhand,2018,3,0
+Jharkhand,2018,4,3
+Jharkhand,2018,5,3
+Jharkhand,2018,6,7
+Jharkhand,2018,7,18
+Jharkhand,2018,8,103
+Jharkhand,2018,9,104
+Jharkhand,2018,10,77
+Jharkhand,2018,11,126
+Jharkhand,2018,12,21
+Jharkhand,2019,1,5
+Jharkhand,2019,2,1
+Jharkhand,2019,3,6
+Jharkhand,2019,4,10
+Jharkhand,2019,5,4
+Jharkhand,2019,6,6
+Karnataka,2018,1,154
+Karnataka,2018,2,298
+Karnataka,2018,3,230
+Karnataka,2018,4,138
+Karnataka,2018,5,186
+Karnataka,2018,6,415
+Karnataka,2018,7,606
+Karnataka,2018,8,362
+Karnataka,2018,9,300
+Karnataka,2018,10,601
+Karnataka,2018,11,318
+Karnataka,2018,12,819
+Karnataka,2019,1,51
+Karnataka,2019,2,199
+Karnataka,2019,3,247
+Karnataka,2019,4,219
+Karnataka,2019,5,414
+Karnataka,2019,6,803
+Kerala,2018,1,167
+Kerala,2018,2,94
+Kerala,2018,3,72
+Kerala,2018,4,73
+Kerala,2018,5,439
+Kerala,2018,6,1454
+Kerala,2018,7,779
+Kerala,2018,8,293
+Kerala,2018,9,282
+Kerala,2018,10,181
+Kerala,2018,11,135
+Kerala,2018,12,114
+Kerala,2019,1,72
+Kerala,2019,2,62
+Kerala,2019,3,58
+Kerala,2019,4,64
+Kerala,2019,5,100
+Kerala,2019,6,464
+Madhya Pradesh,2018,1,6
+Madhya Pradesh,2018,2,10
+Madhya Pradesh,2018,3,3
+Madhya Pradesh,2018,4,6
+Madhya Pradesh,2018,5,9
+Madhya Pradesh,2018,6,17
+Madhya Pradesh,2018,7,104
+Madhya Pradesh,2018,8,302
+Madhya Pradesh,2018,9,853
+Madhya Pradesh,2018,10,1928
+Madhya Pradesh,2018,11,1130
+Madhya Pradesh,2018,12,138
+Madhya Pradesh,2019,1,10
+Madhya Pradesh,2019,2,22
+Madhya Pradesh,2019,3,13
+Madhya Pradesh,2019,4,7
+Madhya Pradesh,2019,5,5
+Madhya Pradesh,2019,6,19
+Maharashtra,2018,1,120
+Maharashtra,2018,2,59
+Maharashtra,2018,3,55
+Maharashtra,2018,4,122
+Maharashtra,2018,5,187
+Maharashtra,2018,6,550
+Maharashtra,2018,7,1046
+Maharashtra,2018,8,1728
+Maharashtra,2018,9,2047
+Maharashtra,2018,10,2278
+Maharashtra,2018,11,1823
+Maharashtra,2018,12,996
+Maharashtra,2019,1,148
+Maharashtra,2019,2,154
+Maharashtra,2019,3,150
+Maharashtra,2019,4,134
+Maharashtra,2019,5,181
+Maharashtra,2019,6,202
+Manipur,2018,1,1
+Manipur,2018,2,0
+Manipur,2018,3,2
+Manipur,2018,4,1
+Manipur,2018,5,0
+Manipur,2018,6,0
+Manipur,2018,7,2
+Manipur,2018,8,2
+Manipur,2018,9,1
+Manipur,2018,10,3
+Manipur,2018,11,1
+Manipur,2018,12,1
+Manipur,2019,1,1
+Manipur,2019,2,0
+Manipur,2019,3,0
+Manipur,2019,4,0
+Manipur,2019,5,2
+Manipur,2019,6,2
+Meghalaya,2018,1,0
+Meghalaya,2018,2,0
+Meghalaya,2018,3,0
+Meghalaya,2018,4,0
+Meghalaya,2018,5,0
+Meghalaya,2018,6,0
+Meghalaya,2018,7,0
+Meghalaya,2018,8,16
+Meghalaya,2018,9,0
+Meghalaya,2018,10,0
+Meghalaya,2018,11,0
+Meghalaya,2018,12,28
+Meghalaya,2019,1,0
+Meghalaya,2019,2,0
+Meghalaya,2019,3,0
+Meghalaya,2019,4,0
+Meghalaya,2019,5,0
+Meghalaya,2019,6,0
+Mizoram,2018,1,4
+Mizoram,2018,2,6
+Mizoram,2018,3,12
+Mizoram,2018,4,12
+Mizoram,2018,5,13
+Mizoram,2018,6,6
+Mizoram,2018,7,4
+Mizoram,2018,8,4
+Mizoram,2018,9,2
+Mizoram,2018,10,2
+Mizoram,2018,11,3
+Mizoram,2018,12,0
+Mizoram,2019,1,0
+Mizoram,2019,2,0
+Mizoram,2019,3,5
+Mizoram,2019,4,1
+Mizoram,2019,5,0
+Mizoram,2019,6,0
+Nagaland,2018,1,0
+Nagaland,2018,2,0
+Nagaland,2018,3,0
+Nagaland,2018,4,0
+Nagaland,2018,5,0
+Nagaland,2018,6,0
+Nagaland,2018,7,0
+Nagaland,2018,8,88
+Nagaland,2018,9,147
+Nagaland,2018,10,77
+Nagaland,2018,11,57
+Nagaland,2018,12,0
+Nagaland,2019,1,0
+Nagaland,2019,2,0
+Nagaland,2019,3,0
+Nagaland,2019,4,0
+Nagaland,2019,5,0
+Nagaland,2019,6,2
+Odisha,2018,1,7
+Odisha,2018,2,6
+Odisha,2018,3,9
+Odisha,2018,4,8
+Odisha,2018,5,5
+Odisha,2018,6,191
+Odisha,2018,7,568
+Odisha,2018,8,1637
+Odisha,2018,9,1452
+Odisha,2018,10,915
+Odisha,2018,11,341
+Odisha,2018,12,59
+Odisha,2019,1,2
+Odisha,2019,2,0
+Odisha,2019,3,0
+Odisha,2019,4,0
+Odisha,2019,5,0
+Odisha,2019,6,61
+Puducherry,2018,1,60
+Puducherry,2018,2,31
+Puducherry,2018,3,5
+Puducherry,2018,4,4
+Puducherry,2018,5,3
+Puducherry,2018,6,2
+Puducherry,2018,7,9
+Puducherry,2018,8,15
+Puducherry,2018,9,51
+Puducherry,2018,10,95
+Puducherry,2018,11,179
+Puducherry,2018,12,138
+Puducherry,2019,1,64
+Puducherry,2019,2,72
+Puducherry,2019,3,49
+Puducherry,2019,4,60
+Puducherry,2019,5,23
+Puducherry,2019,6,27
+Punjab,2018,1,0
+Punjab,2018,2,0
+Punjab,2018,3,0
+Punjab,2018,4,0
+Punjab,2018,5,5
+Punjab,2018,6,3
+Punjab,2018,7,31
+Punjab,2018,8,317
+Punjab,2018,9,1970
+Punjab,2018,10,6555
+Punjab,2018,11,5454
+Punjab,2018,12,645
+Punjab,2019,1,0
+Punjab,2019,2,0
+Punjab,2019,3,0
+Punjab,2019,4,8
+Punjab,2019,5,3
+Punjab,2019,6,52
+Rajasthan,2018,1,483
+Rajasthan,2018,2,261
+Rajasthan,2018,3,252
+Rajasthan,2018,4,256
+Rajasthan,2018,5,278
+Rajasthan,2018,6,280
+Rajasthan,2018,7,239
+Rajasthan,2018,8,331
+Rajasthan,2018,9,962
+Rajasthan,2018,10,3917
+Rajasthan,2018,11,1928
+Rajasthan,2018,12,400
+Rajasthan,2019,1,123
+Rajasthan,2019,2,77
+Rajasthan,2019,3,57
+Rajasthan,2019,4,51
+Rajasthan,2019,5,44
+Rajasthan,2019,6,46
+Sikkim,2018,1,5
+Sikkim,2018,2,0
+Sikkim,2018,3,1
+Sikkim,2018,4,6
+Sikkim,2018,5,1
+Sikkim,2018,6,1
+Sikkim,2018,7,1
+Sikkim,2018,8,67
+Sikkim,2018,9,155
+Sikkim,2018,10,68
+Sikkim,2018,11,15
+Sikkim,2018,12,0
+Sikkim,2019,1,2
+Sikkim,2019,2,3
+Sikkim,2019,3,1
+Sikkim,2019,4,1
+Sikkim,2019,5,0
+Sikkim,2019,6,0
+Tamil Nadu,2018,1,917
+Tamil Nadu,2018,2,308
+Tamil Nadu,2018,3,144
+Tamil Nadu,2018,4,87
+Tamil Nadu,2018,5,71
+Tamil Nadu,2018,6,98
+Tamil Nadu,2018,7,132
+Tamil Nadu,2018,8,178
+Tamil Nadu,2018,9,240
+Tamil Nadu,2018,10,605
+Tamil Nadu,2018,11,1016
+Tamil Nadu,2018,12,690
+Tamil Nadu,2019,1,376
+Tamil Nadu,2019,2,190
+Tamil Nadu,2019,3,186
+Tamil Nadu,2019,4,100
+Tamil Nadu,2019,5,114
+Tamil Nadu,2019,6,134
+Telengana,2018,1,48
+Telengana,2018,2,99
+Telengana,2018,3,55
+Telengana,2018,4,65
+Telengana,2018,5,94
+Telengana,2018,6,33
+Telengana,2018,7,276
+Telengana,2018,8,529
+Telengana,2018,9,1173
+Telengana,2018,10,1149
+Telengana,2018,11,693
+Telengana,2018,12,378
+Telengana,2019,1,85
+Telengana,2019,2,23
+Telengana,2019,3,223
+Telengana,2019,4,177
+Telengana,2019,5,259
+Telengana,2019,6,186
+Tripura,2018,1,3
+Tripura,2018,2,1
+Tripura,2018,3,2
+Tripura,2018,4,0
+Tripura,2018,5,10
+Tripura,2018,6,3
+Tripura,2018,7,9
+Tripura,2018,8,10
+Tripura,2018,9,7
+Tripura,2018,10,22
+Tripura,2018,11,26
+Tripura,2018,12,7
+Tripura,2019,1,10
+Tripura,2019,2,6
+Tripura,2019,3,3
+Tripura,2019,4,7
+Tripura,2019,5,9
+Tripura,2019,6,11
+Uttar Pradesh,2018,1,48
+Uttar Pradesh,2018,2,24
+Uttar Pradesh,2018,3,28
+Uttar Pradesh,2018,4,21
+Uttar Pradesh,2018,5,17
+Uttar Pradesh,2018,6,12
+Uttar Pradesh,2018,7,34
+Uttar Pradesh,2018,8,126
+Uttar Pradesh,2018,9,602
+Uttar Pradesh,2018,10,2126
+Uttar Pradesh,2018,11,627
+Uttar Pradesh,2018,12,164
+Uttar Pradesh,2019,1,20
+Uttar Pradesh,2019,2,11
+Uttar Pradesh,2019,3,9
+Uttar Pradesh,2019,4,3
+Uttar Pradesh,2019,5,11
+Uttar Pradesh,2019,6,15
+Uttrakhand,2018,1,0
+Uttrakhand,2018,2,0
+Uttrakhand,2018,3,0
+Uttrakhand,2018,4,0
+Uttrakhand,2018,5,0
+Uttrakhand,2018,6,0
+Uttrakhand,2018,7,6
+Uttrakhand,2018,8,10
+Uttrakhand,2018,9,190
+Uttrakhand,2018,10,335
+Uttrakhand,2018,11,148
+Uttrakhand,2018,12,0
+Uttrakhand,2019,1,0
+Uttrakhand,2019,2,0
+Uttrakhand,2019,3,0
+Uttrakhand,2019,4,0
+Uttrakhand,2019,5,0
+Uttrakhand,2019,6,0
